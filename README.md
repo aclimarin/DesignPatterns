@@ -1,7 +1,7 @@
 # Design Patterns
 Simple implementation of Design Patterns described in the book **Agile Principles, Patterns, and Practices in C#** *(By Robert C. Martin and Micah C. Martin)*.
 
-### [Command Pattern](https://github.com/aclimarin/DesignPatterns/tree/main#command-pattern)
+#### - [Command Pattern](https://github.com/aclimarin/DesignPatterns/tree/main#command-pattern)
 
 ## Command Pattern
 The **Command Pattern** encapsulate a request as an object. It allows the client to parameterize diferent requests in a queue and also suports undo actions.
@@ -17,3 +17,4 @@ The **Command Pattern** encapsulate a request as an object. It allows the client
 + **Receiver**: Represents the object that performs the action. When the *Command.Execute()* is called, the concrete command holds the reference to the receiver.
 
 + **Client**: The client sets the concrete command passing the receiver. It decides when to execute or undo the action.
+

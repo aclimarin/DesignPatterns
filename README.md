@@ -4,6 +4,8 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Command](https://github.com/aclimarin/DesignPatterns/tree/main#command)
 ##### - [Template Method](https://github.com/aclimarin/DesignPatterns/tree/main#template-method)
 
+---
+
 ## Command
 The **Command Pattern** encapsulate a request as an object. It allows the client to parameterize diferent requests in a queue and also suports undo actions.
 

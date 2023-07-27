@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\Strategy\Store\bin\Debug\net7.0\Store.exe
+C:\github\DesignPatterns\Strategy\Store\bin\Debug\net7.0\Store.deps.json
+C:\github\DesignPatterns\Strategy\Store\bin\Debug\net7.0\Store.runtimeconfig.json
+C:\github\DesignPatterns\Strategy\Store\bin\Debug\net7.0\Store.dll
+C:\github\DesignPatterns\Strategy\Store\bin\Debug\net7.0\Store.pdb
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.AssemblyInfo.cs
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.dll
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\refint\Store.dll
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.pdb
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\Store.genruntimeconfig.cache
+C:\github\DesignPatterns\Strategy\Store\obj\Debug\net7.0\ref\Store.dll

@@ -3,6 +3,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 
 ##### - [Command](https://github.com/aclimarin/DesignPatterns/tree/main#command)
 ##### - [Template Method](https://github.com/aclimarin/DesignPatterns/tree/main#template-method)
+##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
 
 ---
 
@@ -35,3 +36,17 @@ The **Template Method Pattern** uses an abstract class to define the steps of an
 + **Concrete Methods**: The implementation in subclasses of the abstract methods defined in the base class.
 
 + **Concrete Class (Subclasses)**: The concrete classes that will inherit from the abstract base class and will define a specific behavior.
+
+---
+
+## Strategy
+
+The **Stategy Pattern** define a group of algorithm based in an contract (interface). The strategy uses a context that will call the interface method according to the passed concrete class. This patterns allow us to extend some behavior without change any of the existing code.
+
+### Base Structure
+
++ **Strategy Interface**: The interface that will define the contract of the algorithm group.
+
++ **Concrete Strategies**: The concrete class that will inherit from the interface and provide a specific behavior.
+
++ **Context Class**: The concrete class that holds the reference to the interface and can perform any of the concrete strategies.

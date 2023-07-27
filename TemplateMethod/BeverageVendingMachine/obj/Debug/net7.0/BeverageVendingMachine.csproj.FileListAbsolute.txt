@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\bin\Debug\net7.0\BeverageVendingMachine.exe
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\bin\Debug\net7.0\BeverageVendingMachine.deps.json
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\bin\Debug\net7.0\BeverageVendingMachine.runtimeconfig.json
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\bin\Debug\net7.0\BeverageVendingMachine.dll
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\bin\Debug\net7.0\BeverageVendingMachine.pdb
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.AssemblyInfo.cs
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.dll
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\refint\BeverageVendingMachine.dll
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.pdb
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\BeverageVendingMachine.genruntimeconfig.cache
+C:\github\DesignPatterns\TemplateMethod\BeverageVendingMachine\obj\Debug\net7.0\ref\BeverageVendingMachine.dll

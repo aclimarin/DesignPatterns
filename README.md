@@ -1,9 +1,10 @@
 # Design Patterns
 Simple implementation of Design Patterns described in the book **Agile Principles, Patterns, and Practices in C#** *(By Robert C. Martin and Micah C. Martin)*.
 
-#### - [Command Pattern](https://github.com/aclimarin/DesignPatterns/tree/main#command-pattern)
+##### - [Command](https://github.com/aclimarin/DesignPatterns/tree/main#command)
+##### - [Template Method](https://github.com/aclimarin/DesignPatterns/tree/main#template-method)
 
-## Command Pattern
+## Command
 The **Command Pattern** encapsulate a request as an object. It allows the client to parameterize diferent requests in a queue and also suports undo actions.
 
 ### Base Structure
@@ -18,3 +19,17 @@ The **Command Pattern** encapsulate a request as an object. It allows the client
 
 + **Client**: The client sets the concrete command passing the receiver. It decides when to execute or undo the action.
 
+---
+
+## Template Method
+The **Template Method Pattern** uses an abstract class to define the steps of an algorithm and allow some subclasses to implement some of the steps.
+
+### Base Structure
+
++ **Abstract Class (Base Class)**: Is the central class of the template method. It contains the overall algorithm as a method (called template method) that will call other methods, both abstract and concrete.
+
++ **Abstract Methods**: The declarations of methods that are part of the template method structure. The subclasses will provide the implamentations.
+
++ **Concrete Methods**: The implementation in subclasses of the abstract methods defined in the base class.
+
++ **Concrete Class (Subclasses)**: The concrete classes that will inherit from the abstract base class and will define a specific behavior.

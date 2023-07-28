@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\Singleton\LogginApp\bin\Debug\net7.0\LogginApp.exe
+C:\github\DesignPatterns\Singleton\LogginApp\bin\Debug\net7.0\LogginApp.deps.json
+C:\github\DesignPatterns\Singleton\LogginApp\bin\Debug\net7.0\LogginApp.runtimeconfig.json
+C:\github\DesignPatterns\Singleton\LogginApp\bin\Debug\net7.0\LogginApp.dll
+C:\github\DesignPatterns\Singleton\LogginApp\bin\Debug\net7.0\LogginApp.pdb
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.AssemblyInfo.cs
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.dll
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\refint\LogginApp.dll
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.pdb
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\LogginApp.genruntimeconfig.cache
+C:\github\DesignPatterns\Singleton\LogginApp\obj\Debug\net7.0\ref\LogginApp.dll

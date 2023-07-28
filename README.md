@@ -5,6 +5,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Template Method](https://github.com/aclimarin/DesignPatterns/tree/main#template-method)
 ##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
 ##### - [Facad](https://github.com/aclimarin/DesignPatterns/tree/main#facad)
+##### - [Singleton](https://github.com/aclimarin/DesignPatterns/tree/main#singleton)
 
 ---
 
@@ -79,3 +80,17 @@ The **Mediator Pattern** is used to promote loose coupling between objects. A ne
 + **Concrete Mediator**: The concret class with logic for mediate the comunication.
 
 + **Colleague**: The objects that needs to comunicate with each other.
+
+---
+
+## Singleton
+
+The **Singleton Pattern** is used ensure that a class has only one instance with global access throughout application's lifetime.
+
+### Base Structure
+
++ **Private Static Instance Variable**: A private variable tha holds the instance of the class.
+
++ **Private Constructor**: The private constructor to prevent external instance.
+
++ **Public Static Method to Access**: The method responsible to create the instance if it doesn't exists or return the instance if it already created

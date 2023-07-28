@@ -6,6 +6,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
 ##### - [Facad](https://github.com/aclimarin/DesignPatterns/tree/main#facad)
 ##### - [Singleton](https://github.com/aclimarin/DesignPatterns/tree/main#singleton)
+##### - [Monostate](https://github.com/aclimarin/DesignPatterns/tree/main#monostate)
 
 ---
 
@@ -99,7 +100,7 @@ The **Singleton Pattern** is used to ensure that a class has only one instance w
 
 ## Monostate
 
-The **Monostate Pattern** is used ensure that all classes will share the same state. When o modify the state value in one instance of an object, any other instance will assume the same state value.
+The **Monostate Pattern** is used ensure that all classes will share the same state. When you modify the state value in one instance of an object, any other instance will assume the same state value.
 
 ### Base Structure
 

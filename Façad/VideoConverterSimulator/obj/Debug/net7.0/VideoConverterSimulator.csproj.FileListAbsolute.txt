@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\bin\Debug\net7.0\VideoConverterSimulator.exe
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\bin\Debug\net7.0\VideoConverterSimulator.deps.json
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\bin\Debug\net7.0\VideoConverterSimulator.runtimeconfig.json
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\bin\Debug\net7.0\VideoConverterSimulator.dll
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\bin\Debug\net7.0\VideoConverterSimulator.pdb
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.AssemblyInfo.cs
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.dll
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\refint\VideoConverterSimulator.dll
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.pdb
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\VideoConverterSimulator.genruntimeconfig.cache
+C:\github\DesignPatterns\Façad\VideoConverterSimulator\obj\Debug\net7.0\ref\VideoConverterSimulator.dll

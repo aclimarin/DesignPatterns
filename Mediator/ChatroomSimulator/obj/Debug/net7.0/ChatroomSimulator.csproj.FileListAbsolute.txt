@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\bin\Debug\net7.0\ChatroomSimulator.exe
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\bin\Debug\net7.0\ChatroomSimulator.deps.json
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\bin\Debug\net7.0\ChatroomSimulator.runtimeconfig.json
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\bin\Debug\net7.0\ChatroomSimulator.dll
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\bin\Debug\net7.0\ChatroomSimulator.pdb
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.AssemblyInfo.cs
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.dll
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\refint\ChatroomSimulator.dll
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.pdb
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ChatroomSimulator.genruntimeconfig.cache
+C:\github\DesignPatterns\Mediator\ChatroomSimulator\obj\Debug\net7.0\ref\ChatroomSimulator.dll

@@ -4,6 +4,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Command](https://github.com/aclimarin/DesignPatterns/tree/main#command)
 ##### - [Template Method](https://github.com/aclimarin/DesignPatterns/tree/main#template-method)
 ##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
+##### - [Facad](https://github.com/aclimarin/DesignPatterns/tree/main#facad)
 
 ---
 
@@ -50,3 +51,31 @@ The **Stategy Pattern** define a group of algorithm based in an contract (interf
 + **Concrete Strategies**: The concrete class that will inherit from the interface and provide a specific behavior.
 
 + **Context Class**: The concrete class that holds the reference to the interface and can perform any of the concrete strategies.
+
+---
+
+## Facad
+
+The **Facad Pattern** propouse is to simplify the usage of a complex subsystem
+
+### Base Structure
+
++ **Facad**: The class that provides a simple and unified logic to the complex subsystem. It encapsulates the interactions and operations of multiple classes that the client class doesn't need to know.
+
++ **Subsystem Classes**: The multiple classes that compose the subsystem.
+
++ **Client**: The class that uses the facad without knowing the subsystem classes.
+
+---
+
+## Mediator
+
+The **Mediator Pattern** is used to promote loose coupling between objects. A new object is introduced to mediate the comunication between objects without direct dependecy
+
+### Base Structure
+
++ **Mediator Interface**: The interface that defines the contract for comunication between objects
+
++ **Concrete Mediator**: The concret class with logic for mediate the comunication.
+
++ **Colleague**: The objects that needs to comunicate with each other.

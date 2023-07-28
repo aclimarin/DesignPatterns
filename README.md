@@ -94,3 +94,17 @@ The **Singleton Pattern** is used ensure that a class has only one instance with
 + **Private Constructor**: The private constructor to prevent external instance.
 
 + **Public Static Method to Access**: The method responsible to create the instance if it doesn't exists or return the instance if it already created
+
+---
+
+## Monostate
+
+The **Monostate Pattern** is used ensure that all classes will share the same state. When o modify the state value in one instance of an object, any other instance will assume the same state value.
+
+### Base Structure
+
++ **Shared State Variables**: A static variable that holds the shared state.
+
++ **Properties or Methods for Access**: The public properties or methods that access the shared variables values.
+
++ **Shared Behavior**: The class may have methods to operate on the shared state.

@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\bin\Debug\net7.0\GameManagerSimulator.exe
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\bin\Debug\net7.0\GameManagerSimulator.deps.json
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\bin\Debug\net7.0\GameManagerSimulator.runtimeconfig.json
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\bin\Debug\net7.0\GameManagerSimulator.dll
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\bin\Debug\net7.0\GameManagerSimulator.pdb
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.AssemblyInfo.cs
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.dll
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\refint\GameManagerSimulator.dll
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.pdb
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\GameManagerSimulator.genruntimeconfig.cache
+C:\github\DesignPatterns\Monostate\GameManagerSimulator\obj\Debug\net7.0\ref\GameManagerSimulator.dll

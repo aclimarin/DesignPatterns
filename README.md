@@ -85,7 +85,7 @@ The **Mediator Pattern** is used to promote loose coupling between objects. A ne
 
 ## Singleton
 
-The **Singleton Pattern** is used ensure that a class has only one instance with global access throughout application's lifetime.
+The **Singleton Pattern** is used to ensure that a class has only one instance with global access throughout application's lifetime.
 
 ### Base Structure
 

@@ -6,6 +6,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
 ##### - [Facad](https://github.com/aclimarin/DesignPatterns/tree/main#facad)
 ##### - [Singleton](https://github.com/aclimarin/DesignPatterns/tree/main#singleton)
+##### - [Null Objecy](https://github.com/aclimarin/DesignPatterns/tree/main#null-object)
 
 ---
 
@@ -108,3 +109,15 @@ The **Monostate Pattern** is used ensure that all classes will share the same st
 + **Properties or Methods for Access**: The public properties or methods that access the shared variables values.
 
 + **Shared Behavior**: The class may have methods to operate on the shared state.
+
+## Null Object
+
+The **Null Object** pattern eliminates the need to check for a null value by providing a "neutral" object that can be used in place of the actual instance.
+
+### Base Structure
+
++ **Base Class or Interface**: Defines the common interface or contract that both concrete or null object should have.
+
++ **Concrete Classes**: Implements the object behaviors
+
++ **Null Object**: The special implementation of the base class or interface that overrides the original behaviors to do "nothing".

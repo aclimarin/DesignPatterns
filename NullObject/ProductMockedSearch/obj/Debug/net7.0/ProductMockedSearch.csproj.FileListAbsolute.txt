@@ -1,0 +1,15 @@
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\bin\Debug\net7.0\ProductMockedSearch.exe
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\bin\Debug\net7.0\ProductMockedSearch.deps.json
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\bin\Debug\net7.0\ProductMockedSearch.runtimeconfig.json
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\bin\Debug\net7.0\ProductMockedSearch.dll
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\bin\Debug\net7.0\ProductMockedSearch.pdb
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.csproj.AssemblyReference.cache
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.AssemblyInfoInputs.cache
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.AssemblyInfo.cs
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.csproj.CoreCompileInputs.cache
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.dll
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\refint\ProductMockedSearch.dll
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.pdb
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ProductMockedSearch.genruntimeconfig.cache
+C:\github\DesignPatterns\NullObject\ProductMockedSearch\obj\Debug\net7.0\ref\ProductMockedSearch.dll

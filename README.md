@@ -6,7 +6,6 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Strategy](https://github.com/aclimarin/DesignPatterns/tree/main#strategy)
 ##### - [Facad](https://github.com/aclimarin/DesignPatterns/tree/main#facad)
 ##### - [Singleton](https://github.com/aclimarin/DesignPatterns/tree/main#singleton)
-##### - [Null Objecy](https://github.com/aclimarin/DesignPatterns/tree/main#null-object)
 
 ---
 
@@ -109,6 +108,8 @@ The **Monostate Pattern** is used ensure that all classes will share the same st
 + **Properties or Methods for Access**: The public properties or methods that access the shared variables values.
 
 + **Shared Behavior**: The class may have methods to operate on the shared state.
+
+---
 
 ## Null Object
 

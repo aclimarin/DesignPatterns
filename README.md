@@ -8,6 +8,7 @@ Simple implementation of Design Patterns described in the book **Agile Principle
 ##### - [Singleton](https://github.com/aclimarin/DesignPatterns/tree/main#singleton)
 ##### - [Monostate](https://github.com/aclimarin/DesignPatterns/tree/main#monostate)
 ##### - [Null Object](https://github.com/aclimarin/DesignPatterns/tree/main#null-object)
+##### - [Factory](https://github.com/aclimarin/DesignPatterns/tree/main#factory)
 
 ---
 
@@ -124,3 +125,19 @@ The **Null Object** pattern eliminates the need to check for a null value by pro
 + **Concrete Classes**: Implements the object behaviors
 
 + **Null Object**: The special implementation of the base class or interface that overrides the original behaviors to do "nothing".
+
+---
+
+## Factory
+
+The **Factory** allows that dependecy upon the concrete class to exist in one, and only one, place.
+
+### Base Structure
+
++ **Product Interface**: The interface that defines the behavior that you wanto to use.
+
++ **Concrete Products**: The implementation of the behaviors
+
++ **Factory Interface**: The interface that defines the implementations that factory can do.
+
++ **Concrete Factory**: The implementations of the dependency of concrete classes

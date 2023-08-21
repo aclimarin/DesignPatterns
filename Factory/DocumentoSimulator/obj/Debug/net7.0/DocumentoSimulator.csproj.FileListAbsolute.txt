@@ -1,0 +1,14 @@
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\bin\Debug\net7.0\DocumentoSimulator.exe
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\bin\Debug\net7.0\DocumentoSimulator.deps.json
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\bin\Debug\net7.0\DocumentoSimulator.runtimeconfig.json
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\bin\Debug\net7.0\DocumentoSimulator.dll
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\bin\Debug\net7.0\DocumentoSimulator.pdb
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.AssemblyInfoInputs.cache
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.AssemblyInfo.cs
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.csproj.CoreCompileInputs.cache
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.dll
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\refint\DocumentoSimulator.dll
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.pdb
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\DocumentoSimulator.genruntimeconfig.cache
+C:\anacarol\src\github\DesignPatterns\Factory\DocumentoSimulator\obj\Debug\net7.0\ref\DocumentoSimulator.dll
